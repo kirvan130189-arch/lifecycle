@@ -32,5 +32,4 @@
   
 ## Ответ:
 [Скрин решения](https://dropmefiles.com/UKsqU)  
-[Скрин решения](https://dropmefiles.com/nfgld)  
 
