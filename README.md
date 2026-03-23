@@ -31,6 +31,6 @@
    * Завершите задачу/карточку «Поправить bug на Backend» переместив в колонку «Готово».
   
 ## Ответ:
-[Скрин решения]([https://dropmefiles.com/UKsqU)  
+[Скрин решения](https://dropmefiles.com/UKsqU)  
 [Скрин решения](https://dropmefiles.com/nfgld)  
 
